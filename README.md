@@ -3,7 +3,7 @@ My learning journey for AWS &amp; DevOps (Linux, Git, Docker, AWS projects)
 # AWS DevOps Journey 🚀
 
 ## 👨‍💻 About Me
-Transitioning into to IT, currently learning AWS & DevOps.
+Transitioning into IT, currently learning AWS & DevOps.
 
 ## 📚 Learning Progress
 - Linux
